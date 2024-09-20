@@ -6,3 +6,5 @@ The sphero contains multiple sensors, including a velocity, light, and speed sen
 I believe that setting up journals was quite easy, at least for me. I didn't have many problems with the set up, other than everything being very specific. I guess that was one of the issues, since alot of people don't pay attention in class, they didn't pay attention to the small details in which was required when you set up your journal. For me, I had accidentally added an extra character at the end of the title of my repository, that leaded to my journal not being graded. It wasn't the teachers fault, for I belive she did nothing wrong. Overall, the process went pretty smoothly for me. 
 # september 17, 2024
 This is a free week.
+# september 20, 2024
+Today for the hour of coding assignment, I created my own google logo. It was pretty fun.
