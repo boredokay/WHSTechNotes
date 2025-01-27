@@ -41,3 +41,10 @@ I am pretty excited for winter break.
   # January 22, 2025
   Government intervention impacts users in not the best way. Though the government assumed that TikTok was stealing users data, it failed to take into account the ACTUAL companies taking user's data, such as TEMU and SHEIN who have multiple lawsuits against them for stealing credit card information and such. Another reason that the government issued ban of TikTok backfired was that the users of the app didn't want the ban to take effect at all. They were in much protest about it, but the ban took place but was taken back within a few hours.
   Companies like TikTok can address security concerns by coming to a comprimise with the government about the way they deal with things. They can make adjustments to their terms of agreements that will comply with how the U.S wants to do things, maybe by agreeing to not spy on us or something like that. This correlates to concepts we've covered in class by aluuding to app development and how things function regarding essential functions such as data privacy and user interface. 
+  # January 27, 2025
+| Name      | Car | Mistake      |
+| ----------- | ----------- | ----------- | 
+| Header      | Title       | Text
+| Paragraph   | Text        | Text
+| Header      | Title       | Txet
+| Paragraph   | Text        |
