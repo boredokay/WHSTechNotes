@@ -44,7 +44,8 @@ I am pretty excited for winter break.
   # January 27, 2025
 | Name      | Car | Mistake      |
 | ----------- | ----------- | ----------- | 
-| Header      | Title       | Text
-| Paragraph   | Text        | Text
-| Header      | Title       | Txet
-| Paragraph   | Text        |
+| Jimmy      | Honda Civic	       | Drilled Hole In Gas Tank
+| Kayla   | GMC Sierra	        | 	Fixed Wrong Problem
+| Bart      | Toyota Corolla	       | Left Stains On Carpet
+| Harrison   | Subaru Forester | Left The Oil Cap Off
+
