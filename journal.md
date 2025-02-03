@@ -48,4 +48,7 @@ I am pretty excited for winter break.
 | Kayla   | GMC Sierra	        | 	Fixed Wrong Problem
 | Bart      | Toyota Corolla	       | Left Stains On Carpet
 | Harrison   | Subaru Forester | Left The Oil Cap Off
+  # February 3, 2025
+  I believe that computer science contributes greatly to air traffic control. The fact that air traffic relies so heavily on computers and prediction systems and complex math equations that can aid in the work of the air traffic controllers. The mention of security is also a very important thing in regards to air traffic controls, with the fact that air traffic control centers have to be extra secure to prevent any infiltrations or intruisions in the sopheticated systems. 
+  With the mention of infiltrations, we of course have to bring up cybersecurity regarding such important and sensitive systems like the mass interworks of sensitive computers that air traffic controllers so often have to monitor. It is important to have strong and sure cybersecurity measures, such as cloud security or double authentification. Maybe, with regards to the crash, there was error in the way the Human-Computer interaction was structured. I read up on the situation, and it stuck out to me that there was only one person guiding both the helicopter and the airplane. I belive this was the reason why they ultimately crashed.
 
