@@ -59,3 +59,11 @@ I am pretty excited for winter break.
 # February 24, 2025
    I belive that technology can be used to keep educators and service providers updated on the ever evolving youth language by perhaps there being an add on to aid them. It could utilize AI and have human workers specialize in slang and such to regulate the add on, perhaps to a browser or maybe even have an app, that is reguarly updated in 12 hour incriments or however the provider would like. A challenge of intergrating slang trnaslation tools into educational services and such might be that they use such slang in the wrong context. The internet is a melting pot of ever changing diversities and such, so of course slang will come and go, and sometimes it might become cringe when people like educators try to use such language. 
    Sorry lol. I don't think that internet slang is soo important that it has to be tracked and taught in schools. It's a common thing, but i believe that schools would actually flop if they tried to do such things as impliment a program to help understand slang better. You should just use the internet.
+# March 3, 2025
+| Name      | Power | Challenge      |
+| ----------- | ----------- | ----------- | 
+| Zara      | 	Telekenesis| Secure Building
+| Aether   | Weather Manipulation        | Prevent Assassination
+| Thorne      | 	Invisibility	       | Underwater Rescue
+| Silver   |	Mind Control | Retrieve Stolen Goods
+| Tangier   | 	Shapeshifting | Extract Prisoner
