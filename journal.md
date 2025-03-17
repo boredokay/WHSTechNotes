@@ -67,3 +67,6 @@ I am pretty excited for winter break.
 | Thorne      | 	Invisibility	       | Underwater Rescue
 | Silver   |	Mind Control | Retrieve Stolen Goods
 | Tangier   | 	Shapeshifting | Extract Prisoner
+# March 17, 2025
+  The technology i used most often over spring break was apps and social media. I mostly read over this spring break, and since I do not want to head to the library in person, I use the ebook app the allows me to read and check out books on my phone. I was challenged by my printer because it refused to connect to my phone. I had to ask a friend for help, so that was fun in the sense that it stimulated me in the rather lull of the spring break.
+  I had to use problem solving alot last week in matters such as my printer being finnicky and my PC refusing to cooperate with me. I also thought of game development when I wa sworking with my computer, for I had to update a game I hadn't played in such a long time. I hadn't played it in so long actually, that the developers revamped the whole thing and I had to download the entire thing again! 
