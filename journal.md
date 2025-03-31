@@ -73,3 +73,11 @@ I am pretty excited for winter break.
 # March 23, 2025
   First of all, I have no idea what March Madness is. But, with the intergration of AI into things such as sports and competitions, I am never entirely sure how to feel about it all. I am happy that people are so smart as to develop programs that can potentially enhance the entertainment value of such events, but if it was me, i feel like it would be more fun to try and predict things myself then have a computer do it. But others might not want that, and that's fine, so i think AI enhancement in these situations could be good.
   I think with March Madness, social media could be a good place to perhaps interact with others who root for the same team as you. Though, most social platforms are breeding grounds for anger and arguments when it comes to differing opinions. I think streaming services can help user engagement for people who are unable to attend the  event in person as well.
+# March 31, 2025
+  1. I'm feeling fine in all aspects.
+  2. The most stressful part of school has been assignments but I've managed.
+  3. One thing I could do to take care of myself is take frequent breaks.
+  4. One goal I have is to pass my CSP exam, I will study hard.
+  5. Someone I can talk to is my mom because I know she'll listen to me.
+  
+
