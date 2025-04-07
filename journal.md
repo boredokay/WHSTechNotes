@@ -79,5 +79,5 @@ I am pretty excited for winter break.
   3. One thing I could do to take care of myself is take frequent breaks.
   4. One goal I have is to pass my CSP exam, I will study hard.
   5. Someone I can talk to is my mom because I know she'll listen to me.
-  
-
+  # April 7, 2025
+    I think AI could greatly help those to studey and prepare for tests like STAAR. It could aid by compressing information into a more a more manageable context so that students can easily process it. It could summarize information faster or perhaps make it to be easier for students to take advantage of. It could even be used to expand on subjects that were perhaps skimmed over in class. I think the best use of an AI tutor for me would be to expand on information of things skimmed over or things i need more help understanding. I would use it because it would be a great help to explain things in a context i understand.
