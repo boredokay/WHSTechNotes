@@ -79,8 +79,8 @@ I am pretty excited for winter break.
   3. One thing I could do to take care of myself is take frequent breaks.
   4. One goal I have is to pass my CSP exam, I will study hard.
   5. Someone I can talk to is my mom because I know she'll listen to me.
-  # April 7, 2025
+# April 7, 2025
     I think AI could greatly help those to studey and prepare for tests like STAAR. It could aid by compressing information into a more a more manageable context so that students can easily process it. It could summarize information faster or perhaps make it to be easier for students to take advantage of. It could even be used to expand on subjects that were perhaps skimmed over in class. I think the best use of an AI tutor for me would be to expand on information of things skimmed over or things i need more help understanding. I would use it because it would be a great help to explain things in a context i understand.
-  # April 14, 2025
+# April 14, 2025
     I am not entirely sure if I really care about wether schoolsall the way in florida are banning phones. I don't think they're benificial to students because really, as a student, it's only more reason to skip or cut class or just goof off. I believe there should be balance of course, but banning phones all together is not the way to go. I don't agree with it because most kids already don't even like school, and with the rise of violence and whatnot in America, it truly does pose a threat if something terrible happens.
     I think I would be pretty upset if these kind of measures were put into place here at Wagner. Something truly TERRIBLE must've happened to warrant that kind of response. I would be upset because i often talk to my mom during school, and to have that taken away! I think lots of parents would be mad as well and i just don't think it would  be a good look on the school. 
