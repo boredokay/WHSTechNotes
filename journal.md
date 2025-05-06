@@ -84,10 +84,12 @@ I am pretty excited for winter break.
 # April 14, 2025
   I am not entirely sure if I really care about wether schoolsall the way in florida are banning phones. I don't think they're benificial to students because really, as a student, it's only more reason to skip or cut class or just goof off. I believe there should be balance of course, but banning phones all together is not the way to go. I don't agree with it because most kids already don't even like school, and with the rise of violence and whatnot in America, it truly does pose a threat if something terrible happens.
     I think I would be pretty upset if these kind of measures were put into place here at Wagner. Something truly TERRIBLE must've happened to warrant that kind of response. I would be upset because i often talk to my mom during school, and to have that taken away! I think lots of parents would be mad as well and i just don't think it would  be a good look on the school. 
-# April 28, 2024
+# April 28, 2025
 | Name      | Flavor | Occasion      | Price|
 | ----------- | ----------- | ----------- | -----------|
 | Sally      |Chocolate	       |Graduation |$35.00|
 | Micheal   |Vanilla	        | 	Farewell Party |$37.00 |
 | Emma      | Carrot       | Birthday|$39.00 |
-
+# May 6, 2025
+  I do not belive that 100 people could win against a gorilla. Matbe with weapons and a strategy, yes, but those are not specified. Just throwing 100 people at a presumably hostile gorilla would result in not only truama but most likely execution for all of them. Tough pill to swallow, but true.
+  I don't care very much about the ethics os such a challenge going viral. It makes no difference to me, and it might even be good for people to think about something other than their phones for a while. The thought in itself, a gorilla vs 100 people, is pretty amusing to think about in a way, and it's entertaining for me at least to see all the debates and memes. I think it's simple fun.
