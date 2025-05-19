@@ -96,3 +96,5 @@ I am pretty excited for winter break.
 # May 12, 2025
   I am not quite sure what to do about this particular trend. I don't believe there is truly anything we can do about it. The best thing that can be done in my eyes is to simply punish the people who are participating in such trends and make examples of them, IE sending them to alternative and making them pay for the damages done to the school.
   Students sign a contract ensuring that they will take care of school technology, anbd are obligeed to honor it of course for if they dont't, there will be consequences. Students are expected to keep chromebooks in neat condition and not throw them around too much. I mean, if I had to explain the consequences to someone, would there really be any point? I don't belive they would listen, for I know I wouldn't, if their mind is so set already. If it doesn't affect me very much, then i cant't say i care too much about it.
+# May 19, 2025
+  I am hopeful for summer. I hope to get a job and make bassline for the marching band.
